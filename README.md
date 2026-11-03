@@ -1,5 +1,3 @@
-### Projet 1 : Plateforme de gestion des soutenances
-
 # 🎓 Application de Gestion des Soutenances et Prise de Rendez-Vous
 
 Une application web dynamique développée en **PHP** suivant l'architecture **MVC (Modèle-Vue-Contrôleur)**. Ce projet vise à automatiser et sécuriser l'organisation, la planification des soutenances académiques et la réservation de créneaux entre étudiants, jurys d'examen et administrateurs.

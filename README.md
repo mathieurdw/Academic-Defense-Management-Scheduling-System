@@ -43,3 +43,55 @@ Le projet suit une structure Modèle-Vue-Contrôleur (MVC) claire :
 │   └── projetdb.sql      # Script d'initialisation SQL
 ├── public/               # Fichiers statiques (CSS, JS, Bootstrap)
 └── index.php             # Point d'entrée principal
+
+
+**ENGLISH VERSION**
+
+
+# 🎓 Academic Defense Management & Scheduling System
+
+A dynamic web application built in **PHP** following the **MVC (Model-View-Controller)** architecture. This project aims to automate and streamline the scheduling of academic project defenses between students and examiners.
+
+---
+
+## 📌 Table of Contents
+
+* [Features](https://www.google.com/search?q=%23-features)
+* [Project Architecture](https://www.google.com/search?q=%23-project-architecture)
+* [Tech Stack](https://www.google.com/search?q=%23-tech-stack)
+* [Database](https://www.google.com/search?q=%23-database)
+* [Installation and Setup](https://www.google.com/search?q=%23-installation-and-setup)
+* [Authors](https://www.google.com/search?q=%23-authors)
+
+---
+
+## ✨ Features
+
+### 👥 Role & User Management
+
+* **Students**: Register, view available time slots, and book defense appointments for their projects.
+* **Examiners / Professors**: Add, update, and manage their availability slots.
+* **Administrators**: Centralized overview of all projects, time slots, and scheduled defenses.
+
+### 📅 Scheduling & Appointments
+
+* Dynamic assignment of time slots to projects.
+* Dedicated module to review, assess, and monitor schedules with ease.
+
+---
+
+## 📁 Project Architecture
+
+The project follows a standard Model-View-Controller (MVC) directory structure:
+
+```text
+├── app/
+│   ├── controllers/      # Controllers (Project, TimeSlot, User, Appointment, etc.)
+│   ├── models/           # Data models & base ORM (Model.php, etc.)
+│   ├── router/           # Application routing (router1.php)
+│   └── views/            # HTML/PHP views (Projects, Slots, Login, etc.)
+├── outil/
+│   ├── Connexion.php     # PDO database connection singleton
+│   └── projetdb.sql      # Database initialization SQL script
+├── public/               # Static assets (CSS, JS, Bootstrap)
+└── index.php             # Main application entry point

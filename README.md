@@ -43,7 +43,7 @@ Le projet suit une structure Modèle-Vue-Contrôleur (MVC) claire :
 │   └── projetdb.sql      # Script d'initialisation SQL
 ├── public/               # Fichiers statiques (CSS, JS, Bootstrap)
 └── index.php             # Point d'entrée principal
-
+```
 
 **ENGLISH VERSION**
 
@@ -95,3 +95,4 @@ The project follows a standard Model-View-Controller (MVC) directory structure:
 │   └── projetdb.sql      # Database initialization SQL script
 ├── public/               # Static assets (CSS, JS, Bootstrap)
 └── index.php             # Main application entry point
+```

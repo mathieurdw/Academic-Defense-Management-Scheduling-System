@@ -79,13 +79,6 @@ Le schéma relationnel repose sur quatre entités centrales liées par des clés
 
 ---
 
-## 📸 Preuves Visuelles & Captures d'Écran
-
-| Tableau de bord & Réservation de créneaux | Schéma Relationnel MySQL (3NF) |
-| --- | --- |
-|  |  |
-
----
 
 ## 🚀 Installation et Configuration
 
@@ -227,13 +220,6 @@ Relational model designed around four interconnected entities with strict foreig
 
 ---
 
-## 📸 Screenshots & Visual Evidence
-
-| Role Dashboard & Booking Interface | Relational Database Schema (3NF) |
-| --- | --- |
-|  |  |
-
----
 
 ## 🚀 Setup & Local Deployment
 
